@@ -4,12 +4,12 @@
     <title>A Does Of JavaScript</title>
     <description>Welcome to my blog &quot;A Does Of JavaScript&quot;! Join me on this amazing journey called JavaScript.
 </description>
-    <link>http://jeffschwartz.github.io/adoseofjavascript//</link>
-    <atom:link href="http://jeffschwartz.github.io/adoseofjavascript//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jan 2016 13:03:18 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2016 13:03:18 -0500</lastBuildDate>
+    <link>http://jeffschwartz.github.io//adoseofjavascript/</link>
+    <atom:link href="http://jeffschwartz.github.io//adoseofjavascript/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jan 2016 13:15:10 -0500</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2016 13:15:10 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-
+    
       <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -28,15 +28,15 @@
 
 </description>
         <pubDate>Wed, 06 Jan 2016 05:17:49 -0500</pubDate>
-        <link>http://jeffschwartz.github.io/adoseofjavascript//jekyll/update/2016/01/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://jeffschwartz.github.io/adoseofjavascript//jekyll/update/2016/01/06/welcome-to-jekyll.html</guid>
-
-
+        <link>http://jeffschwartz.github.io//adoseofjavascript/jekyll/update/2016/01/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jeffschwartz.github.io//adoseofjavascript/jekyll/update/2016/01/06/welcome-to-jekyll.html</guid>
+        
+        
         <category>jekyll</category>
-
+        
         <category>update</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>

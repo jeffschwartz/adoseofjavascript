@@ -4,8 +4,8 @@ email: jefftschwartz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Welcome to my blog "A Does Of JavaScript"! Join me on this
     amazing journey called JavaScript.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jeffschwartz.github.io/adoseofjavascript/" # the base hostname & protocol for your site
+baseurl: "/adoseofjavascript" # the subpath of your site, e.g. /blog/
+url: "http://jeffschwartz.github.io/" # the base hostname & protocol for your site
 twitter_username: jefftschwartz
 github_username:  jeffschwartz
 
